@@ -12,7 +12,7 @@ IOCP 기반 서버를 통해 채팅 기능을 구현했습니다.
 2. 클라이언트측은 서버의 공인 IP로 접속해야 합니다.
 
 
-### **[DEMO YOUTUBE VIDEO](https://youtu.be/MK1DNUKXb4w)**
+### **LINK : [DEMO YOUTUBE VIDEO](https://youtu.be/MK1DNUKXb4w)**
 
 
 
