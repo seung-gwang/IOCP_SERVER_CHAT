@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IOCP_ChatServer", "IOCP_ChatServer.vcxproj", "{EEB2805F-408B-4980-AD1F-CC1BE44CC2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB2805F-408B-4980-AD1F-CC1BE44CC2ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEB2805F-408B-4980-AD1F-CC1BE44CC2ED}.Debug|x86.Build.0 = Debug|Win32
+		{EEB2805F-408B-4980-AD1F-CC1BE44CC2ED}.Release|x86.ActiveCfg = Release|Win32
+		{EEB2805F-408B-4980-AD1F-CC1BE44CC2ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5150BF9B-49EB-4712-B607-E2679EE69829}
+	EndGlobalSection
+EndGlobal
