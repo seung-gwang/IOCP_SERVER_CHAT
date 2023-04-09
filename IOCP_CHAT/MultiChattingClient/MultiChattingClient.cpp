@@ -3,7 +3,7 @@
 #include <winsock2.h>
 
 //서버의 공인 아이피 입력
-#define SERVER_IP_STR ("110.12.201.228") //"127.0.0.1"
+#define SERVER_IP_STR ("127.0.0.1") // 서버 측 공인 IP
 
 using namespace std;
 
